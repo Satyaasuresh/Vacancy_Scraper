@@ -13,7 +13,7 @@ options = webdriver.ChromeOptions()
 driver = webdriver.Chrome(executable_path='C:\webdrivers\chromedriver.exe')
 
 #Get soc_list file from local machine
-path = r'C:\Users\Satyaa\Desktop\Labormatics\soc_list.xlsx'
+path = r'C:\Users\Satyaa\Desktop\soc_list.xlsx'
 inputWorkbook = xlrd.open_workbook(path)
 inputWorksheet = inputWorkbook.sheet_by_index(0)
 
