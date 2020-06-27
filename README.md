@@ -1,2 +1,2 @@
 # Vacancy_Scraper
-The following program scrapes job vacancy data for a particular job from a job search engine and then automatically transfers the data into an Excel spreadsheet. The data collected includes the job title, location, company, description, and salary.
+The following program scrapes job vacancy data for a particular job from a job search engine and then automatically transfers the data into an Excel spreadsheet. The data collected includes the job title, location, company, description, and salary. It is programmed to read through an initial Excel spreadsheet containing a list of occupation, and then automatically collects data on that occupation. The number of vacancies analyzed is specified by the user. 
